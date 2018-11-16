@@ -1,10 +1,10 @@
 [
     {
-        "url": "https://api.github.com/repos/github-tools/github-release-notes/issues/66",
-        "repository_url": "https://api.github.com/repos/github-tools/github-release-notes",
-        "labels_url": "https://api.github.com/repos/github-tools/github-release-notes/issues/66/labels{/name}",
-        "comments_url": "https://api.github.com/repos/github-tools/github-release-notes/issues/66/comments",
-        "events_url": "https://api.github.com/repos/github-tools/github-release-notes/issues/66/events",
+        "url": "https://api.github.com/github-tools/github-release-notes/issues/66",
+        "repository_url": "https://api.github.com/github-tools/github-release-notes",
+        "labels_url": "https://api.github.com/github-tools/github-release-notes/issues/66/labels{/name}",
+        "comments_url": "https://api.github.com/github-tools/github-release-notes/issues/66/comments",
+        "events_url": "https://api.github.com/github-tools/github-release-notes/issues/66/events",
         "html_url": "https://github.com/github-tools/github-release-notes/pull/66",
         "id": 123456789,
         "number": 2,
@@ -40,7 +40,7 @@
         "closed_at": null,
         "author_association": "OWNER",
         "pull_request": {
-            "url": "https://api.github.com/repos/github-tools/github-release-notes/pulls/66",
+            "url": "https://api.github.com/github-tools/github-release-notes/pulls/66",
             "html_url": "https://github.com/github-tools/github-release-notes/pull/66",
             "diff_url": "https://github.com/github-tools/github-release-notes/pull/66.diff",
             "patch_url": "https://github.com/github-tools/github-release-notes/pull/66.patch"

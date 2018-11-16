@@ -1,10 +1,10 @@
 [
     {
-        "url": "https://api.github.com/repos/github-tools/github-release-notes/issues/37",
-        "repository_url": "https://api.github.com/repos/github-tools/github-release-notes",
-        "labels_url": "https://api.github.com/repos/github-tools/github-release-notes/issues/37/labels{/name}",
-        "comments_url": "https://api.github.com/repos/github-tools/github-release-notes/issues/37/comments",
-        "events_url": "https://api.github.com/repos/github-tools/github-release-notes/issues/37/events",
+        "url": "https://api.github.com/github-tools/github-release-notes/issues/37",
+        "repository_url": "https://api.github.com/github-tools/github-release-notes",
+        "labels_url": "https://api.github.com/github-tools/github-release-notes/issues/37/labels{/name}",
+        "comments_url": "https://api.github.com/github-tools/github-release-notes/issues/37/comments",
+        "events_url": "https://api.github.com/github-tools/github-release-notes/issues/37/events",
         "html_url": "https://github.com/github-tools/github-release-notes/issues/37",
         "id": 234567890,
         "number": 1,
@@ -31,7 +31,7 @@
         "labels": [
             {
                 "id": 285888376,
-                "url": "https://api.github.com/repos/github-tools/github-release-notes/labels/enhancement",
+                "url": "https://api.github.com/github-tools/github-release-notes/labels/enhancement",
                 "name": "enhancement",
                 "color": "84b6eb",
                 "default": true
@@ -44,9 +44,9 @@
 
         ],
         "milestone": {
-            "url": "https://api.github.com/repos/github-tools/github-release-notes/milestones/7",
+            "url": "https://api.github.com/github-tools/github-release-notes/milestones/7",
             "html_url": "https://github.com/github-tools/github-release-notes/milestone/7",
-            "labels_url": "https://api.github.com/repos/github-tools/github-release-notes/milestones/7/labels",
+            "labels_url": "https://api.github.com/github-tools/github-release-notes/milestones/7/labels",
             "id": 2460352,
             "number": 7,
             "title": "0.10.0",
@@ -87,11 +87,11 @@
         "closed_by": null
     },
     {
-        "url": "https://api.github.com/repos/github-tools/github-release-notes/issues/37",
-        "repository_url": "https://api.github.com/repos/github-tools/github-release-notes",
-        "labels_url": "https://api.github.com/repos/github-tools/github-release-notes/issues/37/labels{/name}",
-        "comments_url": "https://api.github.com/repos/github-tools/github-release-notes/issues/37/comments",
-        "events_url": "https://api.github.com/repos/github-tools/github-release-notes/issues/37/events",
+        "url": "https://api.github.com/github-tools/github-release-notes/issues/37",
+        "repository_url": "https://api.github.com/github-tools/github-release-notes",
+        "labels_url": "https://api.github.com/github-tools/github-release-notes/issues/37/labels{/name}",
+        "comments_url": "https://api.github.com/github-tools/github-release-notes/issues/37/comments",
+        "events_url": "https://api.github.com/github-tools/github-release-notes/issues/37/events",
         "html_url": "https://github.com/github-tools/github-release-notes/issues/37",
         "id": 234567891,
         "number": 3,
@@ -131,11 +131,11 @@
         "closed_by": null
     },
     {
-        "url":"https://api.github.com/repos/github-tools/github-release-notes/issues/101",
-        "repository_url":"https://api.github.com/repos/github-tools/github-release-notes",
-        "labels_url":"https://api.github.com/repos/github-tools/github-release-notes/issues/101/labels{/name}",
-        "comments_url":"https://api.github.com/repos/github-tools/github-release-notes/issues/101/comments",
-        "events_url":"https://api.github.com/repos/github-tools/github-release-notes/issues/101/events",
+        "url":"https://api.github.com/github-tools/github-release-notes/issues/101",
+        "repository_url":"https://api.github.com/github-tools/github-release-notes",
+        "labels_url":"https://api.github.com/github-tools/github-release-notes/issues/101/labels{/name}",
+        "comments_url":"https://api.github.com/github-tools/github-release-notes/issues/101/comments",
+        "events_url":"https://api.github.com/github-tools/github-release-notes/issues/101/events",
         "html_url":"https://github.com/github-tools/github-release-notes/pull/101",
         "id":265524462,
         "number":101,
@@ -175,7 +175,7 @@
         "closed_at":"2017-10-14T21:18:27Z",
         "author_association":"OWNER",
         "pull_request":{
-            "url":"https://api.github.com/repos/github-tools/github-release-notes/pulls/101",
+            "url":"https://api.github.com/github-tools/github-release-notes/pulls/101",
             "html_url":"https://github.com/github-tools/github-release-notes/pull/101",
             "diff_url":"https://github.com/github-tools/github-release-notes/pull/101.diff",
             "patch_url":"https://github.com/github-tools/github-release-notes/pull/101.patch"
@@ -183,11 +183,11 @@
         "body":"Fixes #99 "
     },
     {
-        "url":"https://api.github.com/repos/github-tools/github-release-notes/issues/100",
-        "repository_url":"https://api.github.com/repos/github-tools/github-release-notes",
-        "labels_url":"https://api.github.com/repos/github-tools/github-release-notes/issues/100/labels{/name}",
-        "comments_url":"https://api.github.com/repos/github-tools/github-release-notes/issues/100/comments",
-        "events_url":"https://api.github.com/repos/github-tools/github-release-notes/issues/100/events",
+        "url":"https://api.github.com/github-tools/github-release-notes/issues/100",
+        "repository_url":"https://api.github.com/github-tools/github-release-notes",
+        "labels_url":"https://api.github.com/github-tools/github-release-notes/issues/100/labels{/name}",
+        "comments_url":"https://api.github.com/github-tools/github-release-notes/issues/100/comments",
+        "events_url":"https://api.github.com/github-tools/github-release-notes/issues/100/events",
         "html_url":"https://github.com/github-tools/github-release-notes/pull/100",
         "id":265522515,
         "number":100,
@@ -227,7 +227,7 @@
         "closed_at":"2017-10-14T20:51:31Z",
         "author_association":"OWNER",
         "pull_request":{
-            "url":"https://api.github.com/repos/github-tools/github-release-notes/pulls/100",
+            "url":"https://api.github.com/github-tools/github-release-notes/pulls/100",
             "html_url":"https://github.com/github-tools/github-release-notes/pull/100",
             "diff_url":"https://github.com/github-tools/github-release-notes/pull/100.diff",
             "patch_url":"https://github.com/github-tools/github-release-notes/pull/100.patch"
